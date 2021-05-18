@@ -1,0 +1,7 @@
+S:\jqneal\Project 1 folder\Project01-QuintonNeal\Project01-QuintonNeal\bin\Debug\Project01-QuintonNeal.exe.config
+S:\jqneal\Project 1 folder\Project01-QuintonNeal\Project01-QuintonNeal\bin\Debug\Project01-QuintonNeal.exe
+S:\jqneal\Project 1 folder\Project01-QuintonNeal\Project01-QuintonNeal\bin\Debug\Project01-QuintonNeal.pdb
+S:\jqneal\Project 1 folder\Project01-QuintonNeal\Project01-QuintonNeal\obj\Debug\Project01-QuintonNeal.csprojAssemblyReference.cache
+S:\jqneal\Project 1 folder\Project01-QuintonNeal\Project01-QuintonNeal\obj\Debug\Project01-QuintonNeal.csproj.CoreCompileInputs.cache
+S:\jqneal\Project 1 folder\Project01-QuintonNeal\Project01-QuintonNeal\obj\Debug\Project01-QuintonNeal.exe
+S:\jqneal\Project 1 folder\Project01-QuintonNeal\Project01-QuintonNeal\obj\Debug\Project01-QuintonNeal.pdb
